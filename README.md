@@ -18,7 +18,7 @@ Input:
 
 Output:
 
-![image](https://github.com/UMKC-APL-BigDataProgramming/lesson-3-aarthinagireddy/blob/master/screenshots/Output1.PNG)
+![image](https://github.com/UMKC-APL-BigDataProgramming/lesson-3-aarthinagireddy/blob/master/screenshots/Ouput1.PNG)
 
 ![image](https://github.com/UMKC-APL-BigDataProgramming/lesson-3-aarthinagireddy/blob/master/screenshots/output2.PNG)
 
